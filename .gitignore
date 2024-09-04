@@ -1,0 +1,4 @@
+.env
+__pycache__
+tweets.db
+request_counts.json
