@@ -10,4 +10,4 @@ if __name__ == "__main__":
     scheduler_thread.start()
     
     app = create_app()
-    app.launch()
+    app.launch()  
