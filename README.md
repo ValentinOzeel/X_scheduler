@@ -23,8 +23,8 @@ A powerful and elegant Python-based application for scheduling and managing post
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/x-posts-scheduler.git
-   cd x-posts-scheduler
+   git clone https://github.com/ValentinOzeel/X_scheduler.git
+   cd X_scheduler
    ```
 
 2. Install required packages:
@@ -85,5 +85,3 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 - [SQLite](https://www.sqlite.org/)
 
 ---
-
-Made with ❤️ by [Your Name]

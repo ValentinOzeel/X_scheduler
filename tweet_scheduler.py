@@ -1,13 +1,11 @@
 import schedule
 import time
 from datetime import datetime
+import os
 
 from database import get_scheduled_tweets, mark_tweet_as_posted, get_tweet_media
 from auth import authenticate_v2, authenticate_v1
-from x_actions import post_tweet, RateLimiter
-import tempfile
-import os
-
+from x_actions import post_tweet
 
 
 def post_scheduled_tweets():
