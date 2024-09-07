@@ -72,7 +72,7 @@ A powerful and elegant Python-based application for scheduling and managing post
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/x-posts-scheduler/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/ValentinOzeel/X_scheduler/issues).
 
 ## 📜 License
 
