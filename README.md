@@ -1,6 +1,6 @@
 # 🌌 𝕏 (Twitter) Posts Scheduler
 
-A powerful and elegant Python-based application for scheduling and managing posts on 𝕏 (formerly Twitter). This project leverages the 𝕏 API to provide a seamless experience for users to schedule, edit, and delete tweets, all within a beautiful Gradio interface.
+A powerful and elegant Python-based application for scheduling and managing posts on 𝕏 (formerly Twitter). This project leverages the 𝕏 API to provide a seamless experience for users to schedule, format, edit, and delete tweets, all within a beautiful Gradio interface.
 
 ## 🌟 Features
 
